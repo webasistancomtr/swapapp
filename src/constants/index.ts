@@ -9,10 +9,10 @@ type ChainTokenList = {
 
 export const CAKE = new Token(
   ChainId.MAINNET,
-  '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82',
+  '0x7ce1e651374ec5324e6f37c4ff312d53428f0d50',
   18,
-  'CAKE',
-  'PancakeSwap Token'
+  'DOGO',
+  'DOGO COIN'
 )
 export const WBNB = new Token(ChainId.MAINNET, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
 export const DAI = new Token(ChainId.MAINNET, '0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3', 18, 'DAI', 'Dai Stablecoin')
